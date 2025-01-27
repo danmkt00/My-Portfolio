@@ -13,6 +13,7 @@ a:hover {
   color: #006d77;
 }
 
+/* navbar */
 .nav-link:hover {
   color: #006d77;
 }
@@ -22,4 +23,47 @@ a:hover {
   font-weight: 700;
   font-size: 24px;
   color: black;
+}
+
+/* intro section */
+.main {
+  max-width: 1000px;
+}
+
+.main-header {
+  padding-top: 160px;
+  padding-left: 80px;
+}
+
+.main-heading {
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  font-size: 90px;
+}
+
+.main-heading-emphasis {
+  font-weight: 400;
+  color: #006d77;
+}
+
+.main-para {
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  font-size: 32px;
+  padding-left: 80px;
+}
+
+.main-arrow {
+  transform: matrix(-0.51, -0.86, -0.86, 0.51, 0, 0);
+  opacity: 0.6;
+  width: 400px;
+  height: 300px;
+  left: 160px;
+}
+
+.main-socials-cont {
+  border-top: 4px solid #006d77;
+  width: 900px;
+  margin-right: -40px;
+  padding: 40px;
 }
