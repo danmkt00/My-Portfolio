@@ -49,7 +49,7 @@ This feature on a branch `intro-section`.
 - Add `h3` with class `main-para`
 
 - Add `section` with class `socials`
-- Add three `a` with links to social media inside `div` with class
+- Add two `a` with links to social media inside `div` with class
   `main-socials-cont`
 
 #### CSS
