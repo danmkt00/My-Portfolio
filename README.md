@@ -1,10 +1,11 @@
-# Name of project
+# My portfolio
 
-> A longer description
+> A showcase of my skills, projects, and experience, created to highlight my
+> work and abilities.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [My portfolio](#my-portfolio)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
