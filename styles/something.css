@@ -67,3 +67,46 @@ a:hover {
   margin-right: -40px;
   padding: 40px;
 }
+
+/* Skills section  */
+.skills-heading {
+  font-family: Roboto, sans-serif;
+  font-weight: 900;
+  color: #edf6f9;
+  font-size: 300px;
+  margin-left: -60px;
+}
+
+.skills-cont {
+  top: 0;
+  right: 0;
+}
+
+.skills-text {
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  font-size: 32px;
+}
+
+.skills-group-random {
+  list-style: none;
+  text-align: end;
+}
+
+.skills-group-dev {
+  list-style: none;
+  text-align: start;
+}
+
+.logo {
+  width: 56px;
+  height: 56px;
+}
+
+.logo:hover {
+  opacity: 0.85;
+}
+
+.logo-skills {
+  height: 40px;
+}
