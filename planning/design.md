@@ -2,11 +2,7 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
-
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+> The My portfolio website has a clean, modern, and functional design.
 
 ---
 
@@ -14,4 +10,4 @@
 
 > Include your wireframe(s) and link to wireframe
 
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![My portfolio design](./design.png)
