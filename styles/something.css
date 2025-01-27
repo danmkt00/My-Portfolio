@@ -126,6 +126,14 @@ a:hover {
   left: 180px;
 }
 
+.tutorial-text {
+  font-family: "Permanent Marker", cursive;
+  font-size: 22px;
+  width: 300px;
+  right: -10px;
+  bottom: -130px;
+}
+
 .tutorial-arrow {
   height: 130px;
   right: 20px;
@@ -209,4 +217,20 @@ a:hover {
   right: -120px;
   top: 30px;
   border-radius: 50%;
+}
+
+/* Contact section */
+.contact-heading {
+  font-family: Roboto, sans-serif;
+  font-weight: 900;
+  color: #edf6f9;
+  font-size: 300px;
+  margin-right: -60px;
+}
+
+.contact-text {
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  font-size: 32px;
+  color: black;
 }
