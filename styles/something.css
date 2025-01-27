@@ -110,3 +110,74 @@ a:hover {
 .logo-skills {
   height: 40px;
 }
+
+/* Works section */
+.work-heading {
+  font-family: Roboto, sans-serif;
+  font-weight: 900;
+  color: #edf6f9;
+  font-size: 300px;
+  margin-right: -60px;
+}
+
+.codecast-arrow {
+  height: 80px;
+  top: 250px;
+  left: 180px;
+}
+
+.tutorial-arrow {
+  height: 130px;
+  right: 20px;
+  bottom: -10px;
+  transform: rotate(-47.58deg);
+}
+
+.tutorial-btn-arrow {
+  height: 130px;
+  right: -170px;
+  bottom: -150px;
+  transform: matrix(-0.73, -0.68, -0.68, 0.73, 0, 0);
+}
+
+.trivia-text {
+  font-family: "Permanent Marker", cursive;
+  font-size: 22px;
+  width: 300px;
+  left: 280px;
+}
+
+.btn {
+  padding: 16px 24px;
+  background-color: #83c5be;
+  border-radius: 16px;
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  color: white;
+}
+
+.trivia-btn {
+  top: 180px;
+  left: 60px;
+}
+
+.tutorial-btn {
+  bottom: -180px;
+  left: 170px;
+}
+
+.iframe-cont {
+  position: relative;
+  overflow: hidden;
+  width: 70%;
+  padding-top: 35%;
+}
+
+.responsive-iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
