@@ -215,6 +215,7 @@ a:hover {
 .avatar {
   overflow: hidden;
   width: 600px;
+  height: 600px;
   right: -120px;
   top: 30px;
   border-radius: 50%;
